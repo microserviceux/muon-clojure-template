@@ -1,4 +1,4 @@
-(defproject muon-clojure/lein-template "0.2.7"
+(defproject muon-clojure/lein-template "0.2.8"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
